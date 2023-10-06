@@ -1,0 +1,9 @@
+middleware
+routes
+
+
+
+schema - Define the stracture
+
+schema - Model
+using Model we do CURD operation.
